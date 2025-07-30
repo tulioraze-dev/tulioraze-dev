@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Túlio Rabelo Azevedo
 
 ### Engenheiro de Qualidade de Software | Especialista em Automação de Testes com Cypress | Teste de Performance
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/tulio-rabelo-azevedo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulio-rabelo-azevedo)
 [![Email](https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuliorazevedo.dev@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/tuliorabelo?label=Seguidores&style=flat)](https://github.com/tulioraze-dev/)
 [![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-Visualizar-informational?logo=github)](#github-stats)
