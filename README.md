@@ -1,7 +1,4 @@
 # 👋 Olá! Eu sou o Túlio Rabelo Azevedo
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ### Engenheiro de Qualidade de Software | Especialista em Automação de Testes com Cypress | Teste de Performance
 
