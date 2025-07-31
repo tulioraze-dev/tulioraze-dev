@@ -6,7 +6,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/tulioraze-dev?label=Seguidores&style=flat)](https://github.com/tulioraze-dev/)
 [![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-Visualizar-informational?logo=github)](#github-stats)
 
-> “Qualidade não é um ato, é um hábito.” — Aristóteles
+> “Qualidade não é um ato, é um hábito.”
 ---
 
   Profissional e motivado, gosto de pensar o desafio faz parte do que eu sou. Atuo na área da qualidade por mais de 4 anos e nesse período tive a oportunidade de atuar em quase todas as áreas que cabe a um QA, pensando e documentando cenários de testes manuais, com o foco em automação para rodadas de teste end-to-end, também tive a oportunidade de atuar na análise de requisitos, definições de prioridade, DoD, DoR e com menos atuação, pude colaborar com a equipe para encontrar gargalos escrevendo e rodando testes de performance, com foco no stresse teste, assim como análise dos resultados.
